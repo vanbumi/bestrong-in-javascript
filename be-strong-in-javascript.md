@@ -4,7 +4,7 @@ by mediocademy
 
 
 
-#### JavaScript console
+## JavaScript console
 
 ```>``` Buka browser chrome > klik kanan dan inspect > pilih tab console.
 
@@ -21,11 +21,11 @@ alert(greet + say)
 
 
 
-#### Basic built in Primitive data type.
+## Basic built in Primitive data type.
 
-**5 Primitive Data types**
+### 5 Primitive Data types
 
-```1``` Numbers
+#### 1. Numbers
 
 ```
 4
@@ -33,27 +33,33 @@ alert(greet + say)
 -10
 ```
 
-```2``` Strings
+
+
+#### 2. Strings
 
 ```
 "Hello Bumi"
 "43"
 ```
 
-```3``` Booleans
+#### 3. Booleans
 
 ```
 true
 false
 ```
 
-```4``` null and 
+
+
+#### 4 null
 
 ```
 null
 ```
 
-```5``` undefined
+
+
+#### 5 undefined
 
 ```
 undefined
