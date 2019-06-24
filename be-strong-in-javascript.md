@@ -88,7 +88,7 @@ undefined
 
 
 
-####```2``` String
+####2. String
 
 ```
 // Single and Double quotes
